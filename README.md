@@ -3,6 +3,7 @@
 ![ESP32](https://img.shields.io/badge/Platform-ESP32-blue)
 ![FreeRTOS](https://img.shields.io/badge/OS-FreeRTOS-green)
 ![LVGL](https://img.shields.io/badge/GUI-LVGL-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## Overview
 
@@ -131,3 +132,7 @@ idf.py -p /dev/ttyUSB0 flash monitor
 - [ESP-IDF Getting Started Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)
 - [LVGL Documentation](https://docs.lvgl.io)
 - [Mongoose Embedded Networking Library](https://cesanta.com/mongoose)
+
+### 8. License
+
+- This project is licensed under the MIT License.
